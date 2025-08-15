@@ -53,7 +53,8 @@ OL-25-LP-063/
 └── survey.csv # Raw survey dataset```
 
 ## 🔗 Important Links  
-- **Streamlit App:** <a href="https://ol-25-lp-063-jqxsemwvvzpufprvdf8s3t.streamlit.app/">Link</a>  
+- **Streamlit App:**
+<a href="https://ol-25-lp-063-jqxsemwvvzpufprvdf8s3t.streamlit.app/">Link</a>  
 
 ## Acknowledgements
 - Dataset Source: [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
