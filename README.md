@@ -22,7 +22,7 @@ build data-driven solutions for:
 ---
 
 ## 📂 Project Structure  
-
+```
 OL-25-LP-063/
 │
 ├── Images/ # Visualizations and plots
@@ -50,7 +50,8 @@ OL-25-LP-063/
 ├── main.py # Main Python script
 ├── README.md # Project documentation
 ├── requirements.txt # Python dependencies
-└── survey.csv # Raw survey dataset```
+└── survey.csv # Raw survey dataset
+```
 
 ## 🔗 Important Links  
 - **Streamlit App:**
