@@ -22,7 +22,7 @@ build data-driven solutions for:
 ---
 
 ## 📂 Project Structure  
-```
+
 OL-25-LP-063/
 │
 ├── Images/ # Visualizations and plots
