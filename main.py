@@ -342,8 +342,8 @@ elif menu == "🧠Clustering Personas":
     st.image("Images/clustering.png", caption="Clusters formed by Agglomerative Clustering")
 
     st.subheader("Persona Descriptions")
-    persona_tabs = st.tabs(["🌱Young Aware Connecters", "🔥Mid-Career Cautious Allies", "😐High-Rish Isolates",
-                             "📢Burnout Veterans", "🚫Proactive Balanced Seekers", "⚖️Steady Seniors"])
+    persona_tabs = st.tabs(["Young Aware Connecters", "Mid-Career Cautious Allies", "High-Rish Isolates",
+                             "Burnout Veterans", "Proactive Balanced Seekers", "Steady Seniors"])
     with persona_tabs[0]:
         st.markdown(""" 
         - Mostly **younger** employees (20–30), with moderate family history 

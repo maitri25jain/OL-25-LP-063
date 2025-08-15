@@ -1,8 +1,5 @@
 # Capstone Project 2025  
 **Project Title:** Mental Wellness Analysis and Support Strategy  
-
->**NOTE:** Github Repo Name must be Unique OL-ID assigned. 
-
 ---
 
 ## 🧾 Student Information  
@@ -26,53 +23,37 @@ build data-driven solutions for:
 
 ## 📂 Project Structure  
 ```
-OL
-├── models/ # Machine Learning Models
-│ ├── classification_model.py
-│ ├── regression_model.py
-│ ├── clustering_model.py
-├── streamlit/ # Streamlit Application
-│ ├── app.py
-│ ├── components.py # UI components (optional)
-├── images/ # Screenshots (optional)
-│ ├── dashboard.png
-│ ├── eda.png
-│ └── model_results.png
-├── requirements.txt
-└── README.md
-```
-
----
+OL-25-LP-063/
+│
+├── Images/ # Visualizations and plots
+│ ├── bivariate1.png
+│ ├── clustering.png
+│ ├── dimensions.png
+│ ├── multivariate.png
+│ ├── roc_curve.png
+│ ├── univariate1.png
+│ └── univariate2.png
+│
+├── Models & Dataset/ # Trained models and dataset files
+│ ├── classification_model.pkl
+│ ├── df.pkl
+│ └── regression_model.pkl
+│
+├── Notebooks/ # Jupyter notebooks for analysis
+│ ├── classification.ipynb
+│ ├── clustering.ipynb
+│ ├── eda.ipynb
+│ └── regression.ipynb
+│
+├── .gitattributes # Git attributes configuration
+├── .gitignore # Files & folders to ignore in Git
+├── main.py # Main Python script
+├── README.md # Project documentation
+├── requirements.txt # Python dependencies
+└── survey.csv # Raw survey dataset```
 
 ## 🔗 Important Links  
-- **EDA Notebook:** [Link to EDA Notebook](#)
-- **Classification Notebook:** [Link to Classification Notebook](#)
-- **Regression Notebook:** [Link to Regression Notebook](#)
-- **Clustering Notebook:** [Link to Clustering Notebook](#)
 - **Streamlit App:** [Hosted App Link](#)  
-- **Technical Report:** [Link to Medium Blog](#) 
-
-## Demo  
-
-Watch the project in action:  
-
-- **Streamlit App Demo:** [Click Here to View Demo](#)  
-
----
-
-### Screenshots  
-- Dashboard Overview
-- EDA Insights  
-- Model Results
-
-
-## Submission Checklist
-- Change the repository name to your OL-ID 
-- Fill in Name, Roll No., OL ID
-- Add links for Notebooks, Streamlit App, and Technical Report
-- Upload screenshots in images/
-- Ensure requirements.txt is complete
-- Push models/ and streamlit/ folders with code
 
 ## Acknowledgements
 - Dataset Source: [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
